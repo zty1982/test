@@ -1,4 +1,4 @@
 # test
 just test
 
-cmodify
+modify
